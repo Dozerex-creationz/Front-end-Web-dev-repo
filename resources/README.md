@@ -1,0 +1,1 @@
+//this contains all the resources required for the web page
